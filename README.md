@@ -34,7 +34,7 @@ nltk.download('stopwords')
 1. Run `crawl_paperlist.py` to crawl the list of papers (~0.5h).
    
 ## Paper List (3,407 submission in total)
-`crawl_paperlist.py` only crawls 3,000 papers for some errors, but it has 3,407 submissions in total. The *full* paper list are in follows:
+`crawl_paperlist.py` only crawls 3,000 papers for some errors, but it has 3,407 submissions in total. The *full* paper list are as follows:
 + [sources/ICLR-2022.csv](./sources/ICLR-2022.csv)
 + [sources/ICLR-2022.md](./sources/ICLR-2022.md)
 
